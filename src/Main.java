@@ -2,6 +2,7 @@ import java.io.FileWriter;
 import java.util.List;
 import java.util.Scanner;
 
+// Code to initiate a population and evolve the individuals in the populations until a fitness goal is met.
 public class Main {
 	
 	public static void main(String[] args) {
