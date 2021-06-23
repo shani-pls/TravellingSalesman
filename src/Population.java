@@ -1,6 +1,7 @@
 import java.util.*;
 import java.util.stream.Collectors;
 
+// Population class that is comprised of a population, population size and fitness.
 public class Population {
 	private Individual[] population; 
 	private int populationSize;
