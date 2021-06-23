@@ -1,4 +1,4 @@
-
+//Fitness class that implements the fitness interface. The interface requires a method called "calculateIndividualFitness"
 public class Fitness implements IFitness{
 
 	@Override
