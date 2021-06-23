@@ -1,6 +1,7 @@
 import java.util.ArrayList;
 import java.util.List;
 
+// Genetic Algorithm class that iterates through generations of a population
 public class GA {
 	private int generations;
 	private double crossoverProbability;
