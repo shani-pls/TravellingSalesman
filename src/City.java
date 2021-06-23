@@ -1,4 +1,4 @@
-
+// City class that provides random coordinates withing a given area.
 public class City {
 	private int xCoordinate;
 	private int yCoordinate;
@@ -8,6 +8,7 @@ public class City {
 		setyCoordinate(y);
 	}
 	
+	// City constructor
 	public City() {
 		int x = (int) Math.round(Math.random()*1000);//The size of the 2D space is 1000x1000
 		int y = (int) Math.round(Math.random()*1000);//The size of the 2D space is 1000x1000
