@@ -1,5 +1,6 @@
 import java.util.Arrays;
 
+// Individual that consists of a chromosome and a fitness value
 public class Individual {
 
 	private int[] chromosome;
